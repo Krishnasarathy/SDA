@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .centered-btn {
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .loading, .error {
+    font-size: 18px;
+    color: red;
+    text-align: center;
+  }
+  
+  .schemes-box {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .category h3 {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  ul li {
+    margin: 5px 0;
+  }
+  
+  @media (max-width: 600px) {
+    .schemes-box {
+      width: 90%;
+      padding: 10px;
+    }
+  
+    .btn {
+      width: 100%;
+    }
+  }
+  

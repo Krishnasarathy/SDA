@@ -1,0 +1,20 @@
+.bk {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+@media (max-width: 768px) {
+  .bk {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.MDBCol {
+  display: flex;
+  justify-content: center;
+}
