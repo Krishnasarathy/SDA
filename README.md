@@ -25,8 +25,11 @@ Financial Literacy Contact forms
 ![image](https://github.com/user-attachments/assets/ab6e16f9-95f7-4fda-98e8-f4b542a05121)
 
 
-BOT
+Chat BOT
+
 ![image](https://github.com/user-attachments/assets/08191cc7-1d3c-40f2-88f1-90f2f37a7a51)
+
+
 ![image](https://github.com/user-attachments/assets/52e4c243-89e0-4578-b18b-4c21edc2e7f8)
 
 
