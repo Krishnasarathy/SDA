@@ -13,8 +13,10 @@ So, We developed a solution to anlayze the reason behind the dropout rate using 
 
 
 ## Screenshots
+Landing Page
+![image](https://github.com/user-attachments/assets/ec08ead8-091f-4eb5-9a35-4bd5221eb4bd)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 ## Tech Stack
