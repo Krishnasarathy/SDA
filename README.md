@@ -42,7 +42,7 @@ Chat BOT
 
 **Client:** React + Vite, BootStrap, rsuitejs
 
-**Server:** Flask, ML
+**Server:** Flask, ML(If you need contact with my E-mail)
 
 **DataBase:** MySQL
 
@@ -51,5 +51,5 @@ Chat BOT
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at krishnasarathy74@fake.com
 
