@@ -42,7 +42,7 @@ Chat BOT
 
 **Client:** React + Vite, BootStrap, rsuitejs
 
-**Server:** Flask, ML(If you need contact with my E-mail)
+**Server:** Flask, ML(Random Forest Algorithm)   ---(If you need contact with my E-mail)
 
 **DataBase:** MySQL
 
