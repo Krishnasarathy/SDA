@@ -51,5 +51,5 @@ Chat BOT
 
 ## Feedback
 
-If you have any feedback, please reach out to us at krishnasarathy74@fake.com
+If you have any feedback, please reach out to us at krishnasarathy74@gmail.com
 
