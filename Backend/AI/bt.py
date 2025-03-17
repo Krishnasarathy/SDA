@@ -6,7 +6,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)  # Enable CORS for frontend communication
 
-genai.configure(api_key="AIzaSyB300P-jd_0UxaXr6fks6E7F8rG4v2t24Q")
+#use API KEY HERE
 
 # Model Configuration
 generation_config = {
