@@ -5,10 +5,10 @@ Student Dropout Analysis for School Education , In India most for the States are
 So, We developed a solution to anlayze the reason behind the dropout rate using Machine Learning.
 
 
-## Acknowledgements
+## Dataset
 
- - [Dropout rates in India Dataset](https://www.data.gov.in/search?title=school%20dropout&type=resources&sortby=_score)
- - [Dataset](https://www.kaggle.com/datasets/abdullah0a/student-dropout-analysis-and-prediction-dataset)
+ - [Dropout rates in India Dataset](https://www.data.gov.in/search?title=school%20dropout&type=resources&sortby=_score) or Kaggle for specific state in india
+ 
  
 
 
